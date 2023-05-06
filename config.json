@@ -1,0 +1,13 @@
+{
+    "maria_ip": "tcp(172.17.0.10:3306)",
+    "maria_user": "user_manager",
+    "maria_password": "1q2w3e$R",
+    "maria_database": "fvrk",
+    "mongo_ip": "172.18.0.9:27017",
+    "mongo_database": "Credentials",
+    "mongo_collection": "TemporaryLinks",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_from": "smart.ass.raty@gmail.com",
+    "smtp_password": "iyojnkeajfptaebr"
+}

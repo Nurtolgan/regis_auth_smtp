@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "first_name": "Bob",
+    "last_name": "Dawad",
+    "mobile": "87754354543",
+    "email": "aaa@gmail.com",
+    "birth_date": "2006-02-01",
+    "birth_place": "Almaty",
+    "nationality": "Arab",
+    "rank": "AAAA",
+    "height": 195,
+    "weight": 79,
+    "spike": 190,
+    "jump": 250,
+    "position": "Svyazuyshi",
+    "passport": "N432524",
+    "passport_validity": "2025-05-15",
+    "first_trainer": "Max"
+  }
